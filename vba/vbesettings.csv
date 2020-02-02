@@ -1,0 +1,11 @@
+color,foreground,background,indicator
+standard,white,black,auto
+selected,yellow,auto,auto
+error,red,auto,auto
+next statement,black,yellow,yellow
+break point,white,red,red
+comment,yellow,black,auto
+keyword,green,black,auto
+indicator,light blue,black,auto
+bookmark,auto,white,light blue
+caller,auto,auto,green
