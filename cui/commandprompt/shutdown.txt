@@ -1,0 +1,5 @@
+rem shutdown
+shutdown /s /t 0
+
+rem reboot
+shutdown /r /t 0
