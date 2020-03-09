@@ -13,4 +13,7 @@ def get_local_timezone():
     return tzlocal.get_localzone()
 
 def get_current_time():
-    return datetime.now()
+    return datetime.datetime.now()
+
+def get_todays_date():
+    return datetime.date.today()
