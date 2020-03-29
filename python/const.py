@@ -1,6 +1,9 @@
 # -*- coding,  utf-8 -*-
 
 ## dateformat
+FMT_DATE_YYMM = '%y%m'
+FMT_DATE_YYMM_SEP = '%y/%m'
+FMT_DATE_YYMMDD_SEP = '%y/%m/%d'
 FMT_DATE_YYYYMM = '%Y%m'
 FMT_DATE_YYYYMM_SEP = '%Y/%m'
 FMT_DATE_YYYYMMDD = '%Y%m%d'
@@ -8,6 +11,10 @@ FMT_DATE_YYYYMMDD_SEP = '%Y/%m/%d'
 FMT_DATE_YYYYMMDD_HHMM = '%Y-%m-%d %H:%M'
 FMT_DATE_YYYYMMDD_HHMMSS = '%Y-%m-%d %H:%M:%S'
 FMT_DATE_YYYYMMDD_HHMMSS_SEP = '%Y/%m/%d %H:%M:%S'
+FMT_DATE_DDMMYY_SEP = '%d/%m/%y'
+
+FMT_DATE_MMDDYY_SEP = '%d/%m/%y'
+FMT_DATE_MMDDYYYY_SEP = '%d/%m/%Y'
 
 ## regular expression
 REGEXP_HALF_LOWER = r'^[a-z]+$'
